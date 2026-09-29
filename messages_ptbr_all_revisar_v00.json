@@ -27,7 +27,7 @@
             "original_text": "[CenterX 159]I'm going to tell the story of[BR]\n'Star Spirits and Good Wishes.'[End]",
             "resource": "MSG_Intro_0002",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Vou contar a história dos[BR]\n'Espíritos Estelares e Bons Desejos.'[End]"
+            "text": "[CenterX 159]Vou contar a história dos 'Espíritos[BR]\nEstelares e Bons Desejos.'[End]"
         },
         {
             "group": 0,
@@ -54,7 +54,7 @@
             "original_text": "[CenterX 159]it's been said that there's[BR]\na haven where the Stars live.[End]",
             "resource": "MSG_Intro_0005",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]dizem que existe[BR]\num refúgio onde vivem as Estrelas.[End]"
+            "text": "[CenterX 159]dizem que existe um refúgio onde[BR]\nvivem as Estrelas.[End]"
         },
         {
             "group": 0,
@@ -72,7 +72,7 @@
             "original_text": "[CenterX 159]there rests a fabled treasure[BR]\ncalled the Star Rod,[End]",
             "resource": "MSG_Intro_0007",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]repousa um tesouro lendário[BR]\nchamado Cetro Estelar,[End]"
+            "text": "[CenterX 159]repousa um tesouro lendário,[BR]\nchamado Cetro Estelar,[End]"
         },
         {
             "group": 0,
@@ -90,7 +90,7 @@
             "original_text": "[CenterX 159]Using this wondrous Star Rod,[BR]\nthe seven revered Star Spirits[End]",
             "resource": "MSG_Intro_0009",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Com o Cetro Estelar,[BR]\nos sete venerados Espíritos Estelares[End]"
+            "text": "[CenterX 159]Com o Cetro Estelar, os sete venerados[BR]\nEspíritos Estelares[End]"
         },
         {
             "group": 0,
@@ -99,7 +99,7 @@
             "original_text": "[CenterX 159]watched over our peaceful world[End]",
             "resource": "MSG_Intro_000A",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]vigiavam nosso mundo pacífico[End]"
+            "text": "[CenterX 159]vigiavam nosso pacífico mundo[End]"
         },
         {
             "group": 0,
@@ -126,7 +126,7 @@
             "original_text": "[CenterX 159]Oh dear... What the...?[End]",
             "resource": "MSG_Intro_000D",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Nossa, O que é isso...?[End]"
+            "text": "[CenterX 159]Vixe, O que é isso...?[End]"
         },
         {
             "group": 0,
@@ -180,7 +180,7 @@
             "original_text": "[CenterX 159]Do it, Kammy Koopa!![End]",
             "resource": "MSG_Intro_0013",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Faça, Kammy Koopa!![End]"
+            "text": "[CenterX 159]Vamo, Kammy Koopa!![End]"
         },
         {
             "group": 0,
@@ -207,7 +207,7 @@
             "original_text": "[CenterX 159]Yeah! Now let's try using it![End]",
             "resource": "MSG_Intro_0016",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Isso! Agora vamos testar usá-lo![End]"
+            "text": "[CenterX 159]Isso! E agora vamos testar![End]"
         },
         {
             "group": 0,
@@ -252,7 +252,7 @@
             "original_text": "[CenterX 159]Now Star Kids may rise to the[BR]\nHaven to deliver people's wishes...[End]",
             "resource": "MSG_Intro_001B",
             "source": "translate/src/00 Introduction.str",
-            "text": "[CenterX 159]Crianças Estelares sobem ao céu[BR]\npara levar desejos do povo...[End]"
+            "text": "[CenterX 159]Crianças Estelares podem ir aos céus[BR]\npara levar desejos do povo...[End]"
         },
         {
             "group": 0,
@@ -324,7 +324,7 @@
             "original_text": "[Style Narrate]\n[Pause 4][InputOn]I'm throwing a party at my[BR]\ncastle today![BR]\n[Pause 10]Mario and Luigi, I would be[BR]\nhonored if you both could attend.[BR]\n[Wait][BR]\n[Next]\n[Down 5]Many guests from distant towns [BR]\n[Down 5]are hoping to meet you.[BR]\n[Wait][BR]\n[Up 10][Next]\nThere will be tasty sweets and[BR]\nall kinds of entertainment![BR]\nI hope to see you here soon![BR]\n[Pause 15][Right 110]Sincerely, Peach[BR]\n[Wait][Yield][End]",
             "resource": "MSG_Intro_0023",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Narrate]\n[Pause 4][InputOn]Estou dando uma festa no meu[BR]\ncastelo hoje![BR]\n[Pause 10]Mario e Luigi, seria uma honra[BR]\nse vocês dois pudessem vir.[BR]\n[Wait][BR]\n[Next]\n[Down 5]Muitos convidados de vilas distantes[BR]\n[Down 5]esperam conhecer vocês.[BR]\n[Wait][BR]\n[Up 10][Next]\nHaverá doces deliciosos e[BR]\ntodo tipo de diversão![BR]\nEspero ver vocês em breve![BR]\n[Pause 15][Right 110]Atenciosamente, Peach[BR]\n[Wait][Yield][End]"
+            "text": "[Style Narrate]\n[Pause 4][InputOn]Estou dando uma festa no meu[BR]\ncastelo hoje![BR]\n[Pause 10]Mario e Luigi, seria uma honra[BR]\nse vocês dois pudessem vir.[BR]\n[Wait][BR]\n[Next]\n[Down 5]Muitos convidados de vilas distantes[BR]\n[Down 5]esperam conhecer vocês.[BR]\n[Wait][BR]\n[Up 10][Next]\nHaverá doces deliciosos e[BR]\ntodo tipo de diversão![BR]\nEspero ver vocês em breve![BR]\n[Pause 15][Right 110]Att., Peach[BR]\n[Wait][Yield][End]"
         },
         {
             "group": 0,
@@ -342,7 +342,7 @@
             "original_text": "[Style Right]\nSay, Mario, why don't you go see[BR]\nPrincess Peach?[BR]\n[Pause 10]I'll go later. I'm thinking I'll[BR]\nmingle for now.[BR]\n[Wait][Next]\nIf you press [A] in front of the[BR]\ndoor up there, you can open it.[Wait][End]",
             "resource": "MSG_Intro_0025",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nMario, por que você não vai ver a[BR]\nPrincesa Peach?[BR]\n[Pause 10]Eu vou depois. Acho que vou[BR]\nconversar um pouco.[BR]\n[Wait][Next]\nSe apertar [A] em frente à[BR]\nporta lá em cima, você pode abri-la.[Wait][End]"
+            "text": "[Style Right]\nMario, por que você não vai ver a[BR]\nPrincesa Peach?[BR]\n[Pause 10]Eu vou depois. Acho que vou[BR]\nconversar um pouco.[BR]\n[Wait][Next]\nSe apertar [A] em frente à porta[BR]\nlá em cima, você pode abri-la.[Wait][End]"
         },
         {
             "group": 0,
@@ -396,7 +396,7 @@
             "original_text": "[Style Right]\nHey...urp...Mario![BR]\n[Pause 10]I hope you brought an appetite![BR]\nThere's so much good food here![BR]\n[Wait][Next]\nI already ate way too much...[BR]\nI'm taking a little breather.[BR]\n[Wait][Next]\nWell, [Pause 5]that's enough of a rest![BR]\nI'm hungry again! Let's eat![BR]\nTo the buffet table!!! [Wait][End]",
             "resource": "MSG_Intro_002B",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nEi... urp... Mario![BR]\n[Pause 10]Espero que tenha vindo com fome![BR]\nTem tanta comida boa aqui![BR]\n[Wait][Next]\nEu já comi até demais...[BR]\nEstou dando um tempinho.[BR]\n[Wait][Next]\nBem, [Pause 5]chega de descansar![BR]\nEstou com fome de novo! Vamos comer![BR]\nMesa do bufê, aí vou eu!!! [Wait][End]"
+            "text": "[Style Right]\nEi... urp... Mario![BR]\n[Pause 10]Espero que tenha vindo com fome![BR]\nTem tanta comida boa aqui![BR]\n[Wait][Next]\nEu já comi até demais...[BR]\nEstou dando um tempinho.[BR]\n[Wait][Next]\nBem, [Pause 5]chega de descansar! Estou[BR]\ncom fome de novo! Vamos comer![BR]\nMesa do bufê, aí vou eu!!! [Wait][End]"
         },
         {
             "group": 0,
@@ -450,7 +450,7 @@
             "original_text": "[Style Right]\nOh, hello there, Mario![BR]\n[Pause 10]I'm Tayce T.[BR]\n[Pause 10]I really love to cook![HEART][BR]\n[Wait][Next]\nYou may not know this, but I[BR]\ncooked all the food for this big[BR]\nparty. I made all of my most[BR]\ndelicious dishes![HEART][BR]\n[Wait][Next]\nBut... Oh dear...[BR]\n[Pause 10]I got so into my cooking that I[BR]\nused up all of my ingredients![BR]\n[Wait][Next]\nNow I have to go shopping![Wait][End]",
             "resource": "MSG_Intro_0031",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nOh, olá, Mario![BR]\n[Pause 10]Sou a Tayce T.[BR]\n[Pause 10]Eu adoro cozinhar![HEART][BR]\n[Wait][Next]\nVocê pode não saber disso, mas eu[BR]\ncozinhei toda a comida desta grande[BR]\nfesta. Fiz meus pratos mais[BR]\ndeliciosos![HEART][BR]\n[Wait][Next]\nMas... ai, meu Deus...[BR]\n[Pause 10]Me empolguei tanto cozinhando que[BR]\nusei todos os meus ingredientes![BR]\n[Wait][Next]\nAgora preciso ir às compras![Wait][End]"
+            "text": "[Style Right]\nOh, olá, Mario![BR]\n[Pause 10]Sou a Tayce T.[BR]\n[Pause 10]Eu adoro cozinhar![HEART][BR]\n[Wait][Next]\nVc pode não saber disso, mas eu[BR]\ncozinhei toda a comida desta[BR]\ngrande festa. Fiz meus pratos[BR]\n mais deliciosos![HEART][BR]\n[Wait][Next]\nMas... ai, meu Deus...[BR]\n[Pause 10]Me empolguei tanto cozinhando que[BR]\nusei todos os meus ingredientes![BR]\n[Wait][Next]\nAgora preciso ir às compras![Wait][End]"
         },
         {
             "group": 0,
@@ -459,7 +459,7 @@
             "original_text": "[Style Right]\nI've been practicing cooking.[BR]\n[Wait][Next]\nI hope that someday I get good[BR]\nenough to cook food as delicious[BR]\nas Tayce T.'s.[BR]\n[Wait][Next]\nDo you know how to cook, Mario?[BR]\nYou really ought to learn![BR]\n[Pause 10]Personally, I think cooking is[BR]\nexceptionally fun![Wait][End]",
             "resource": "MSG_Intro_0032",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nTenho praticado culinária.[BR]\n[Wait][Next]\nEspero que um dia eu fique bom[BR]\npara cozinhar comidas tão deliciosas[BR]\nquanto as da Tayce T.[BR]\n[Wait][Next]\nVocê sabe cozinhar, Mario?[BR]\nVocê devia aprender![BR]\n[Pause 10]Eu acho que cozinhar é[BR]\nmuito divertido![Wait][End]"
+            "text": "[Style Right]\nTenho praticado culinária.[BR]\n[Wait][Next]\nEspero que um dia eu fique bom[BR]\npara cozinhar comidas tão[BR]\ndeliciosas quanto as da Tayce T.[BR]\n[Wait][Next]\nVocê sabe cozinhar, Mario?[BR]\nVocê devia aprender![BR]\n[Pause 10]Eu acho que cozinhar é[BR]\nmuito divertido![Wait][End]"
         },
         {
             "group": 0,
@@ -468,7 +468,7 @@
             "original_text": "[Style Right]\nGreetings, Mario![BR]\n[Pause 10]I am the Minister of Princess[BR]\nPeach's Castle.[BR]\n[Wait][Next]\nIt's good to see you here. When[BR]\nyou're around, I feel like our[BR]\nkingdom is secure.[BR]\n[Pause 10]Yep, our future looks bright![Wait][End]",
             "resource": "MSG_Intro_0033",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nSaudações, Mario![BR]\n[Pause 10]Sou o Ministro do Castelo da[BR]\nPrincesa Peach.[BR]\n[Wait][Next]\nÉ bom ver você por aqui. Quando[BR]\nvocê está por perto, o nosso[BR]\nreino está seguro.[BR]\n[Pause 10]Sim, nosso futuro parece brilhante![Wait][End]"
+            "text": "[Style Right]\nSaudações, Mario![BR]\n[Pause 10]Sou o Ministro do Castelo da[BR]\nPrincesa Peach.[BR]\n[Wait][Next]\nÉ bom ver você por aqui. Quando[BR]\nvocê está por perto, o nosso[BR]\nreino está seguro.[BR]\n[Pause 10]Sim, nosso futuro é brilhante![Wait][End]"
         },
         {
             "group": 0,
@@ -477,7 +477,7 @@
             "original_text": "[Style Right]\nI come from a desert town called[BR]\nDry Dry Outpost. [BR]\n[Wait][Next]\nThis castle is really lovely, isn't[BR]\nit? Truly gorgeous. So cool and[BR]\ncomfortable...[BR]\n[Wait][Next]\nI even got a chance to talk to[BR]\nthe beautiful Princess Peach.[BR]\n[Wait][Next]\nWhat an honor! When I return to[BR]\nDry Dry Outpost, I'm going to[BR]\ntell everyone about it.[Wait][End]",
             "resource": "MSG_Intro_0034",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nVenho de uma vila no deserto chamada[BR]\nPosto Poeira Poeira.[BR]\n[Wait][Next]\nEste castelo é adorável, não é?[BR]\nRealmente lindo. Tão fresco e[BR]\nconfortável...[BR]\n[Wait][Next]\nEu até tive a chance de falar com[BR]\na bela Princesa Peach.[BR]\n[Wait][Next]\nQue honra! Quando eu voltar ao[BR]\nPosto Poeira Poeira, vou contar[BR]\na todos sobre isso.[Wait][End]"
+            "text": "[Style Right]\nVenho de uma vila no deserto[BR]\nchamada Posto Poeira.[BR]\n[Wait][Next]\nEste castelo é adorável, não é?[BR]\nRealmente lindo. Tão fresco e[BR]\nconfortável...[BR]\n[Wait][Next]\nEu até tive a chance de falar com[BR]\na bela Princesa Peach.[BR]\n[Wait][Next]\nQue honra! Quando eu voltar ao[BR]\nPosto Poeira, vou contar[BR]\na todos sobre isso.[Wait][End]"
         },
         {
             "group": 0,
@@ -486,7 +486,7 @@
             "original_text": "[Style Right]\nI'm a Nomadimouse, and I come[BR]\nfrom Dry Dry Desert.[BR]\n[Wait][Next]\nEveryone I've met in this town[BR]\nseems incredibly nice.[BR]\n[Pause 10]I think I'll make this place my[BR]\nhome away from home.[Wait][End]",
             "resource": "MSG_Intro_0035",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nSou um Rato Nômade e venho[BR]\ndo Deserto Poeira Poeira.[BR]\n[Wait][Next]\nTodos que conheci nesta cidade[BR]\nparecem incrivelmente gentis.[BR]\n[Pause 10]Acho que farei deste lugar minha[BR]\nsegunda casa.[Wait][End]"
+            "text": "[Style Right]\nSou um Rato Nômade e venho[BR]\ndo Deserto Poeira.[BR]\n[Wait][Next]\nTodos que conheci nesta cidade[BR]\nparecem incrivelmente gentis.[BR]\n[Pause 10]Acho que farei deste lugar minha[BR]\nsegunda casa.[Wait][End]"
         },
         {
             "group": 0,
@@ -495,7 +495,7 @@
             "original_text": "[Style Right]\nI'm here on behalf of lovely[BR]\nShiver City. I'm the Mayor there,[BR]\nyou know![BR]\n[Wait][Next]\nMy goodness, look at the time![BR]\n[Pause 10]I have to go shopping for[BR]\nsouvenirs with Frost T.![Wait][End]",
             "resource": "MSG_Intro_0036",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nEstou aqui representando a adorável[BR]\nCidade do Gelo. Sou o Prefeito de lá,[BR]\nsabia?[BR]\n[Wait][Next]\nNossa, veja só a hora![BR]\n[Pause 10]Preciso ir comprar lembrancinhas[BR]\ncom o Frost T.![Wait][End]"
+            "text": "[Style Right]\nEstou aqui representando a[BR]\nadorável Cidade do Gelo. Sou o[BR]\nPrefeito de lá, sabia?[BR]\n[Wait][Next]\nNossa, veja só a hora![BR]\n[Pause 10]Preciso ir comprar lembrancinhas[BR]\ncom o Frost T.![Wait][End]"
         },
         {
             "group": 0,
@@ -513,7 +513,7 @@
             "original_text": "[Style Right]\nWell... [Pause 5]Today, we have guests[BR]\n[Pause 10]from Dry Dry Outpost, the[BR]\nShiver region, Koopa Village...[BR]\n[Wait][Next]\nThere're so many folks here,[BR]\nI can't keep track of them all.[BR]\n[Wait][Next]\nAnd where might you be from?[BR]\n[Pause 20]Oh... [Pause 10]You're Mario!?[BR]\n[Pause 10]I... [Pause 5]I'm sorry! Excuse me![Wait][End]",
             "resource": "MSG_Intro_0038",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nBem... [Pause 5]Hoje temos convidados[BR]\n[Pause 10]do Posto Poeira Poeira, da região[BR]\ndo Gelo, da Vila Koopa...[BR]\n[Wait][Next]\nHá tanta gente aqui que[BR]\nnão consigo acompanhar todos.[BR]\n[Wait][Next]\nE de onde você seria?[BR]\n[Pause 20]Oh... [Pause 10]Você é o Mario!?[BR]\n[Pause 10]E... [Pause 5]Me desculpe! Com licença![Wait][End]"
+            "text": "[Style Right]\nBem... [Pause 5]Hoje temos convidados[BR]\n[Pause 10]do Posto Poeira, da região[BR]\ndo Gelo, da Vila Koopa...[BR]\n[Wait][Next]\nHá tanta gente aqui que[BR]\nnão consigo acompanhar todos.[BR]\n[Wait][Next]\nE de onde você seria?[BR]\n[Pause 20]Oh... [Pause 10]Você é o Mario!?[BR]\n[Pause 10]E... [Pause 5]Me desculpe! Com licença![Wait][End]"
         },
         {
             "group": 0,
@@ -522,7 +522,7 @@
             "original_text": "[Style Right]\nDoes Princess Peach have a[BR]\nspecial man in her life?[BR]\n[Wait][Next]\nShe's such a lovely lady...[BR]\nWhoever she loves must be very[BR]\nspecial indeed...[Wait][End]",
             "resource": "MSG_Intro_0039",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nA Princesa Peach tem alguém[BR]\nespecial na vida dela?[BR]\n[Wait][Next]\nEla é tão adorável...[BR]\nQuem quer que ela ame deve ser muito[BR]\nespecial mesmo...[Wait][End]"
+            "text": "[Style Right]\nA Princesa Peach tem alguém[BR]\nespecial na vida dela?[BR]\n[Wait][Next]\nEla é tão adorável...[BR]\nQuem quer que ela ame deve ser[BR]\nmuito especial mesmo...[Wait][End]"
         },
         {
             "group": 0,
@@ -540,7 +540,7 @@
             "original_text": "[Style Right]\nHello, Mario.[BR]\n[Pause 10]I am always on the cutting edge[BR]\nof fashion, and I must say...[BR]\n[Wait][Next]\n...your outfit is just fabulous. [BR]\n[Pause 10]It really suits you![HEART][Wait][End]",
             "resource": "MSG_Intro_003B",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nOlá, Mario.[BR]\n[Pause 10]Estou sempre na vanguarda[BR]\nda moda, e devo dizer...[BR]\n[Wait][Next]\n...sua roupa é simplesmente fabulosa.[BR]\n[Pause 10]Combina muito com você![HEART][Wait][End]"
+            "text": "[Style Right]\nOlá, Mario.[BR]\n[Pause 10]Estou sempre na vanguarda[BR]\nda moda, e devo dizer...[BR]\n[Wait][Next]\n...sua roupa é fabulosa.[BR]\n[Pause 10]Combina muito com você![HEART][Wait][End]"
         },
         {
             "group": 0,
@@ -558,7 +558,7 @@
             "original_text": "[Style Right]\nThis is Princess Peach's room,[BR]\n[Pause 20]but I'm afraid she isn't in here [BR]\nat the moment.[Wait][End]",
             "resource": "MSG_Intro_003D",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nEste é o quarto da Princesa Peach,[BR]\n[Pause 20]mas receio que ela não esteja aqui[BR]\nno momento.[Wait][End]"
+            "text": "[Style Right]\nEste é o quarto da Psa. Peach,[BR]\n[Pause 20]mas receio que ela não esteja aqui[BR]\nno momento.[Wait][End]"
         },
         {
             "group": 0,
@@ -702,7 +702,7 @@
             "original_text": "[Style Right]\nIt was a lovely day today, so I'm[BR]\nsure it's comfortable out on the[BR]\nbalcony right now.[BR]\n[Pause 10]Would you accompany me, Mario?[Wait][End]",
             "resource": "MSG_Intro_004D",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nO dia esteve lindo hoje, então tenho[BR]\ncerteza de que está agradável na[BR]\nsacada agora.[BR]\n[Pause 10]Você me acompanha, Mario?[Wait][End]"
+            "text": "[Style Right]\nO dia esteve lindo hoje, então[BR]\ntenho certeza de que está[BR]\nagradável na sacada agora.[BR]\n[Pause 10]Você me acompanha, Mario?[Wait][End]"
         },
         {
             "group": 0,
@@ -720,7 +720,7 @@
             "original_text": "[Style Right]\nOh my! Look, Mario![BR]\n[Pause 10]It's still daytime, isn't it?[BR]\n[Pause 10]... But I can see stars outside![Wait][End]",
             "resource": "MSG_Intro_004F",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nNossa! Veja, Mario![BR]\n[Pause 10]Ainda é dia, não é?[BR]\n[Pause 10]... Mas consigo ver estrelas lá fora![Wait][End]"
+            "text": "[Style Right]\nNossa! Veja, Mario![BR]\n[Pause 10]Ainda é dia, não é?[BR]\n[Pause 10]... Mas vejo estrelas lá fora![Wait][End]"
         },
         {
             "group": 0,
@@ -747,7 +747,7 @@
             "original_text": "[Style Right]\n[Voice Bowser][Down 8][PrintRising][Wave][Size 32]Gwa ha ha ha![BR]\n[SizeReset][/PrintRising][/Wave][Wait][BR]\n[Scroll 3][Up 12]Yeah, that was me! I've lifted[BR]\nyour castle up into the sky![BR]\nIt's sitting on my castle now![BR]\n[Pause 10]Weren't expecting that, huh?[BR]\n[Wait][Next]\nHa! This castle's under my[BR]\ncontrol now, my dear![BR]\n[Pause 10]Now you will obey ME![Wait][End]",
             "resource": "MSG_Intro_0052",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser][Down 8][PrintRising][Wave][Size 32]Gwa ha ha ha![BR]\n[SizeReset][/PrintRising][/Wave][Wait][BR]\n[Scroll 3][Up 12]É isso aí, fui eu! Ergui o seu[BR]\ncastelo até os céus![BR]\nEle está sobre o meu castelo agora![BR]\n[Pause 10]Não esperava por essa, né?[BR]\n[Wait][Next]\nHa! Este castelo é meu,[BR]\nquerida![BR]\n[Pause 10]Agora você vai me obedecer![Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser][Down 8][PrintRising][Wave][Size 32]Gwa ha ha ha![BR]\n[SizeReset][/PrintRising][/Wave][Wait][BR]\n[Scroll 3][Up 12]É isso aí, fui eu! Ergui o seu[BR]\ncastelo até os céus![BR]\nEle tá sobre meu castelo agora![BR]\n[Pause 10]Não esperava por essa, né?[BR]\n[Wait][Next]\nHa! Este castelo é meu,[BR]\nquerida![BR]\n[Pause 10]Agora você vai me obedecer![Wait][End]"
         },
         {
             "group": 0,
@@ -756,7 +756,7 @@
             "original_text": "[Style Right]\n[Voice Bowser]Huh!? What?[BR]\n[Pause 10]It's...Mario!! What a shock![BR]\n[Wait][Next]\nHa! Not really! I expected you[BR]\nto turn up, right on cue.[BR]\n[Pause 10]You're just as annoying as ever.[BR]\n[Wait][Next]\nUnfortunately for you, there's[BR]\nnothing you can do this time.[Wait][End]",
             "resource": "MSG_Intro_0053",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser]Hã!? O quê?[BR]\n[Pause 10]É o... Mario!! Que choque![BR]\n[Wait][Next]\nHa! Mentira! Eu esperava que você[BR]\naparecesse.[BR]\n[Pause 10]Você é tão irritante quanto antes.[BR]\n[Wait][Next]\nInfelizmente para você, não há nada[BR]\nque possa fazer desta vez.[Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser]Hã!? O quê?[BR]\n[Pause 10]É o... Mario!! Que choque![BR]\n[Wait][Next]\nHa! Mentira! Eu esperava que[BR]\nvocê aparecesse.[BR]\n[Pause 10]Você é tão irritante quanto antes.[BR]\n[Wait][Next]\nInfelizmente para você, não há[BR]\nnada que possa fazer desta vez.[Wait][End]"
         },
         {
             "group": 0,
@@ -765,7 +765,7 @@
             "original_text": "[Style Right]\nHaven't you learned your lesson[BR]\nby now, Bowser?[BR]\n[Wait][Next]\nYou can never defeat Mario![BR]\n[Pause 10]Why don't you give up already?[Wait][End]",
             "resource": "MSG_Intro_0054",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\nVocê ainda não aprendeu a lição,[BR]\nBowser?[BR]\n[Wait][Next]\nVocê nunca conseguirá derrotar o Mario![BR]\n[Pause 10]Por que você não desiste?[Wait][End]"
+            "text": "[Style Right]\nVocê ainda não aprendeu a lição,[BR]\nBowser?[BR]\n[Wait][Next]\nVc nunca conseguirá derrotar o[BR]\nMario![BR]\n[Pause 10]Por que você não desiste?[Wait][End]"
         },
         {
             "group": 0,
@@ -783,7 +783,7 @@
             "original_text": "[Style Right]\n[Voice Bowser]OK, tough guy![BR]\n[Pause 10]Let's go![Wait][End]",
             "resource": "MSG_Intro_0056",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser]Certo, bonijão![BR]\n[Pause 10]Vamos lá![Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser]Certo, bonitão![BR]\n[Pause 10]Vamos lá![Wait][End]"
         },
         {
             "group": 0,
@@ -810,7 +810,7 @@
             "original_text": "[Style Right]\n[Voice Bowser]Take a look at this![BR]\n[Pause 5]Look what I stole from Star[BR]\nHaven! It's the [Color 0x20]Star Rod[Color 0x0A]![BR]\n[Wait][Next]\nThis fine piece of work has the[BR]\npower to grant any wish in the[BR]\nwhole wide world![BR]\n[Wait][Next]\nAnd when I use the Star Rod to[BR]\nincrease my strength, even you[BR]\ncan't beat me, Mario![Wait][End]",
             "resource": "MSG_Intro_0059",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser]Dê uma olhada nisto![BR]\n[Pause 5]Olhe o que roubei do Porto[BR]\nEstelar! É o [Color 0x20]Cetro Estelar[Color 0x0A]![BR]\n[Wait][Next]\nEsta obra-prima tem o[BR]\npoder de realizar qualquer[BR]\ndesejo![BR]\n[Wait][Next]\nE quando eu usar o Cetro Estelar para[BR]\naumentar minha força, nem mesmo você[BR]\npoderá me vencer, Mario![Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser]Dê uma olhada nisto![BR]\n[Pause 5]Olhe o que roubei do Porto[BR]\nEstelar! É o [Color 0x20]Cetro Estelar[Color 0x0A]![BR]\n[Wait][Next]\nEsta obra-prima tem o[BR]\npoder de realizar qualquer[BR]\ndesejo![BR]\n[Wait][Next]\nE quando eu usar o Cetro Estelar[BR]\npra aumentar minha força, nem[BR]\nmesmo vc poderá me vencer, Mario![Wait][End]"
         },
         {
             "group": 0,
@@ -855,7 +855,7 @@
             "original_text": "[Style Right]\n[Voice Bowser]Yes! Oh, yeah! I did it![BR]\n[Wait][Next]\nI finally did it! I beat my old[BR]\nrival Mario! Yessss![Wait][End]",
             "resource": "MSG_Intro_005E",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser]Eu consegui![BR]\n[Wait][Next]\nFinalmente consegui! Derrotei meu antigo[BR]\nrival Mario! Siiiim![Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser]Eu consegui![BR]\n[Wait][Next]\nFinalmente consegui! Derrotei meu[BR]\nantigo rival Mario! Siiiim![Wait][End]"
         },
         {
             "group": 0,
@@ -873,7 +873,7 @@
             "original_text": "[Style Right]\n[Voice Bowser]As long as I have this Star Rod,[BR]\neverything I wish will come true![BR]\n[Pause 10]No one can stop me now![Wait][End]",
             "resource": "MSG_Intro_0060",
             "source": "translate/src/00 Introduction.str",
-            "text": "[Style Right]\n[Voice Bowser]Enquanto eu tiver este Cetro Estelar,[BR]\ntudo se realizará![BR]\n[Pause 10]Ninguém pode me parar agora![Wait][End]"
+            "text": "[Style Right]\n[Voice Bowser]Enquanto eu tiver este Cetro[BR]\nEstelar, tudo se realizará![BR]\n[Pause 10]Ninguém pode me parar agora![Wait][End]"
         },
         {
             "group": 0,
@@ -1620,7 +1620,7 @@
             "original_text": "[Style Right]\nOh, Mario!?[BR]\n[Pause 10]Wow! Hello![BR]\n[Pause 10]I'm so pleased to meet you![BR]\n[Wait][Next]\nNow when I get back to Dry Dry[BR]\nOutpost I can brag to my[BR]\nfriends that I met you![Wait][End]",
             "resource": "MSG_Outro_0050",
             "source": "translate/src/01 Postgame Celebration.str",
-            "text": "[Style Right]\nMario!?[BR]\n[Pause 10]Uau! Olá![BR]\n[Pause 10]Tô tão feliz em conhecê-lo![BR]\n[Wait][Next]\nAgora, qdo eu voltar ao Posto Dry Dry,[BR]\npoderei me gabar pra meus[BR]\namigos que conheci vc![Wait][End]"
+            "text": "[Style Right]\nMario!?[BR]\n[Pause 10]Uau! Olá![BR]\n[Pause 10]Tô tão feliz em conhecê-lo![BR]\n[Wait][Next]\nAgora, qdo eu voltar ao Posto Poeira,[BR]\npoderei me gabar pra meus[BR]\namigos que conheci vc![Wait][End]"
         },
         {
             "group": 1,
@@ -1746,7 +1746,7 @@
             "original_text": "[Style Right]\nHi! [Pause 10]I've come here as an[BR]\nattendant to Mr. Moustafa.[BR]\n[Wait][Next]\nThe rumors of your great[BR]\naccomplishments have spread[BR]\neven to Dry Dry Outpost.[BR]\n[Wait][Next]\nYou're truly amazing.[BR]\n[Pause 10]Well done![Wait][End]",
             "resource": "MSG_Outro_005E",
             "source": "translate/src/01 Postgame Celebration.str",
-            "text": "[Style Right]\nOi! [Pause 10]Vim aqui como assistente[BR]\ndo Sr. Moustafa.[BR]\n[Wait][Next]\nOs rumores das suas grandes[BR]\nconquistas se espalharam[BR]\naté no Posto Poeira Poeira.[BR]\n[Wait][Next]\nVocê é realmente incrível.[BR]\n[Pause 10]Muito bem![Wait][End]"
+            "text": "[Style Right]\nOi! [Pause 10]Vim aqui como assistente[BR]\ndo Sr. Moustafa.[BR]\n[Wait][Next]\nOs rumores das suas grandes[BR]\nconquistas se espalharam[BR]\naté no Posto Poeira.[BR]\n[Wait][Next]\nVocê é realmente incrível.[BR]\n[Pause 10]Muito bem![Wait][End]"
         },
         {
             "group": 1,
@@ -4221,7 +4221,7 @@
             "source": "translate/src/02 Toad Town Gate Sector.str",
             "resource": "MSG_MAC_Gate_0102",
             "original_text": "[Style Right]\nWho is this from?[BR]\n[Pause 15]I don't think I recognize the[BR]\nreturn address.[BR]\n[Wait][Next]\nOh, well. I'm always getting [BR]\nlove letters from strangers.  [BR]\nI'm super popular.[BR]\n[Wait][Next]\nBut enough about me. [BR]\nIt's so lucky you came just now,[BR]\nMr. Postman![BR]\n[Wait][Next]\nWill you do me a favor?[BR]\n[Pause 10]I want you to deliver this[BR]\nletter to the shop owner at[BR]\nDry Dry Outpost.[HEART][BR]\n[Wait][Next]\nI order lots of things from[BR]\nthe desert.[BR]\n[Pause 5]They have so much good stuff![BR]\n[Wait][Next]\nIt's not easy staying this[BR]\nbeautiful. It takes work![BR]\n[Pause 10]Will you please deliver this?[BR]\n[Wait][Next]\nThanks![Wait][End]",
-            "text": "[Style Right]\nDe quem é esta carta?[BR]\n[Pause 15]Acho que não reconheço o[BR]\nremetente.[BR]\n[Wait][Next]\nAh, bem. Sempre recebo[BR]\ncartas de amor de estranhos.[BR]\nSou super popular.[BR]\n[Wait][Next]\nMas chega de falar de mim.[BR]\nQue sorte você ter vindo agora,[BR]\nSr. Carteiro![BR]\n[Wait][Next]\nPode me fazer um favor?[BR]\n[Pause 10]Quero que você entregue esta[BR]\ncarta ao dono da loja em[BR]\nDry Dry Outpost.[HEART][BR]\n[Wait][Next]\nEu encomendo muitas coisas do[BR]\ndeserto.[BR]\n[Pause 5]Eles têm tantas coisas boas![BR]\n[Wait][Next]\nNão é fácil se manter tão[BR]\nlinda. Dá trabalho![BR]\n[Pause 10]Por favor, entregaria isto?[BR]\n[Wait][Next]\nObrigada![Wait][End]"
+            "text": "[Style Right]\nDe quem é esta carta?[BR]\n[Pause 15]Acho que não reconheço o[BR]\nremetente.[BR]\n[Wait][Next]\nAh, bem. Sempre recebo[BR]\ncartas de amor de estranhos.[BR]\nSou super popular.[BR]\n[Wait][Next]\nMas chega de falar de mim.[BR]\nQue sorte você ter vindo agora,[BR]\nSr. Carteiro![BR]\n[Wait][Next]\nPode me fazer um favor?[BR]\n[Pause 10]Quero que você entregue esta[BR]\ncarta ao dono da loja em[BR]\nPosto Poeira.[HEART][BR]\n[Wait][Next]\nEu encomendo muitas coisas do[BR]\ndeserto.[BR]\n[Pause 5]Eles têm tantas coisas boas![BR]\n[Wait][Next]\nNão é fácil se manter tão[BR]\nlinda. Dá trabalho![BR]\n[Pause 10]Por favor, entregaria isto?[BR]\n[Wait][Next]\nObrigada![Wait][End]"
         },
         {
             "id": "02:0103",
@@ -5058,7 +5058,7 @@
             "source": "translate/src/03 Toad Town Castle Sector.str",
             "resource": "MSG_MAC_Plaza_003F",
             "original_text": "[Style Right]\nI had a dream last night, and[BR]\nanother oracle spoke to me.[BR]\n[Wait][Next]\nIts voice was heavenly...[BR]\n[Wait][Next]\n\"If you keep going around[BR]\nand around the red palm tree[BR]\nin the distant desert town[BR]\n-- Dry Dry Outpost --[BR]\n[Wait][Next]\nsomething good will happen.\"[BR]\nSo said the voice in my dream.[BR]\n[Wait][Next]\nIt doesn't seem to make any[BR]\nsense at all to me.[BR]\n[Wait][Next]\nIn fact, thinking about it[BR]\nmakes me so uneasy that I can't[BR]\nsleep at night.[BR]\n[Wait][Next]\nIf you find out what it means, [BR]\nplease tell me.[Wait][End]",
-            "text": "[Style Right]\nTive um sonho noite passada, e[BR]\noutro oráculo falou comigo.[BR]\n[Wait][Next]\nSua voz era celestial...[BR]\n[Wait][Next]\n\"Se vc continuar dando voltas[BR]\ne voltas na palmeira vermelha[BR]\nna distante vila do deserto[BR]\n-- Dry Dry Outpost --[BR]\n[Wait][Next]\nalgo de bom acontecerá.\"[BR]\nAssim disse a voz no meu sonho.[BR]\n[Wait][Next]\nIsso não parece fazer sentido[BR]\nalgum pra mim.[BR]\n[Wait][Next]\nNa verdade, pensar sobre isso[BR]\nme deixa tão inquieto que não consigo[BR]\ndormir à noite.[BR]\n[Wait][Next]\nSe vc descobrir o que significa,[BR]\npor favor me diga.[Wait][End]"
+            "text": "[Style Right]\nTive um sonho noite passada, e[BR]\noutro oráculo falou comigo.[BR]\n[Wait][Next]\nSua voz era celestial...[BR]\n[Wait][Next]\n\"Se vc continuar dando voltas[BR]\ne voltas na palmeira vermelha[BR]\nna distante vila do deserto[BR]\n-- Posto Poeira --[BR]\n[Wait][Next]\nalgo de bom acontecerá.\"[BR]\nAssim disse a voz no meu sonho.[BR]\n[Wait][Next]\nIsso não parece fazer sentido[BR]\nalgum pra mim.[BR]\n[Wait][Next]\nNa verdade, pensar sobre isso[BR]\nme deixa tão inquieto que não consigo[BR]\ndormir à noite.[BR]\n[Wait][Next]\nSe vc descobrir o que significa,[BR]\npor favor me diga.[Wait][End]"
         },
         {
             "id": "03:0040",
@@ -5121,7 +5121,7 @@
             "source": "translate/src/03 Toad Town Castle Sector.str",
             "resource": "MSG_MAC_Plaza_0046",
             "original_text": "[Style Right]\nHm? Who's it from?[BR]\n[Wait][Next]\nHmmmmm...[BR]\n[Pause 10]Oh, my granddaughter, Merlee![BR]\nShe recently entered the[BR]\nfamily business.[BR]\n[Wait][Next]\nUmph... [Pause 8]Is that so?[BR]\n[Pause 10]Oh, I see. Interesting...[BR]\n[Pause 10][Wait][Next]\nShe opened up her business[BR]\nat Dry Dry Outpost, deep in[BR]\nthe desert.[BR]\n[Wait][Next]\nIt's located somewhere[BR]\nquiet off the main drag.[BR]\n[Wait][Next]\nShe seems to be keeping busy.[BR]\n[Pause 5]That's good to hear.[BR]\n[Wait][Next]\nThanks so much for bringing[BR]\nthis letter.[BR]\n[Pause 10]I'll give you this.[Wait][End]",
-            "text": "[Style Right]\nHm? De quem é?[BR]\n[Wait][Next]\nHmmmmm...[BR]\n[Pause 10]Oh, minha neta, Merlee![BR]\nEla recentemente entrou no[BR]\nnegócio da família.[BR]\n[Wait][Next]\nHumpf... [Pause 8]É mesmo?[BR]\n[Pause 10]Oh, entendi. Interessante...[BR]\n[Pause 10][Wait][Next]\nEla abriu seu negócio[BR]\nem Dry Dry Outpost, bem no fundo[BR]\ndo deserto.[BR]\n[Wait][Next]\nEstá localizado em um lugar[BR]\ncalmo fora da via principal.[BR]\n[Wait][Next]\nEla parece estar se mantendo ocupada.[BR]\n[Pause 5]É bom saber disso.[BR]\n[Wait][Next]\nMuito obg por trazer[BR]\nesta carta.[BR]\n[Pause 10]Vou te dar isto.[Wait][End]"
+            "text": "[Style Right]\nHm? De quem é?[BR]\n[Wait][Next]\nHmmmmm...[BR]\n[Pause 10]Oh, minha neta, Merlee![BR]\nEla recentemente entrou no[BR]\nnegócio da família.[BR]\n[Wait][Next]\nHumpf... [Pause 8]É mesmo?[BR]\n[Pause 10]Oh, entendi. Interessante...[BR]\n[Pause 10][Wait][Next]\nEla abriu seu negócio[BR]\nem Posto Poeira, bem no fundo[BR]\ndo deserto.[BR]\n[Wait][Next]\nEstá localizado em um lugar[BR]\ncalmo fora da via principal.[BR]\n[Wait][Next]\nEla parece estar se mantendo ocupada.[BR]\n[Pause 5]É bom saber disso.[BR]\n[Wait][Next]\nMuito obg por trazer[BR]\nesta carta.[BR]\n[Pause 10]Vou te dar isto.[Wait][End]"
         },
         {
             "id": "03:0047",
@@ -5625,7 +5625,7 @@
             "source": "translate/src/03 Toad Town Castle Sector.str",
             "resource": "MSG_MAC_Plaza_007E",
             "original_text": "[Style Right]\nKoopa Village is to the east[BR]\nof Toad Town.[BR]\n[Wait][Next]\nYou know that famous explorer[BR]\nby the name of Kolorado?[BR]\nHe has a house there.[BR]\n[Wait][Next]\nHe's probably not there now.[BR]\nI heard that he's in the field[BR]\nexploring Dry Dry Desert.[Wait][End]",
-            "text": "[Style Right]\nKoopa Village fica a leste[BR]\nde Toad Town.[BR]\n[Wait][Next]\nVc conhece esse famoso explorador[BR]\nchamado Kolorado?[BR]\nEle tem uma casa lá.[BR]\n[Wait][Next]\nEle provavelmente não tá lá agora.[BR]\nOuvi dizer que ele tá em campo[BR]\nexplorando o Dry Dry Desert.[Wait][End]"
+            "text": "[Style Right]\nKoopa Village fica a leste[BR]\nde Toad Town.[BR]\n[Wait][Next]\nVc conhece esse famoso explorador[BR]\nchamado Kolorado?[BR]\nEle tem uma casa lá.[BR]\n[Wait][Next]\nEle provavelmente não tá lá agora.[BR]\nOuvi dizer que ele tá em campo[BR]\nexplorando o Deserto Poeira.[Wait][End]"
         },
         {
             "id": "03:007F",
@@ -5778,7 +5778,7 @@
             "source": "translate/src/03 Toad Town Castle Sector.str",
             "resource": "MSG_MAC_Plaza_008F",
             "original_text": "[Style Right]\nAre you taking a trip to[BR]\nDry Dry Desert?[BR]\n[Pause 10]Take the train.[BR]\nThere's a station south of town.[BR]\n[Wait][Next]\nAfter getting to the station[BR]\nat Mt. Rugged, you'll have to[BR]\nhike over the mountain.[BR]\n[Wait][Next]\nDry Dry Desert is just on the[BR]\nother side of the mountain.[Wait][End]",
-            "text": "[Style Right]\nVc vai fazer uma viagem pra o[BR]\nDry Dry Desert?[BR]\n[Pause 10]Vá de trem.[BR]\nHá uma estação ao sul da cidade.[BR]\n[Wait][Next]\nDepois de chegar à estação[BR]\nno Mt. Rugged, vc terá que[BR]\nfazer uma caminhada pela montanha.[BR]\n[Wait][Next]\nO Dry Dry Desert fica logo do[BR]\noutro lado da montanha.[Wait][End]"
+            "text": "[Style Right]\nVc vai fazer uma viagem pra o[BR]\nDeserto Poeira?[BR]\n[Pause 10]Vá de trem.[BR]\nHá uma estação ao sul da cidade.[BR]\n[Wait][Next]\nDepois de chegar à estação[BR]\nno Mt. Rugged, vc terá que[BR]\nfazer uma caminhada pela montanha.[BR]\n[Wait][Next]\nO Deserto Poeira fica logo do[BR]\noutro lado da montanha.[Wait][End]"
         },
         {
             "id": "03:0090",
@@ -14399,7 +14399,7 @@
             "index": 0,
             "source": "translate/src/0B Chapter 0.str",
             "resource": "MSG_CH0_0000",
-            "text": "Oh,[Style Right]\nque[Voice Star]bom![DitherFade 217]Ele foi ferido[BR]\ngravemente.[Pause 10]Mas acho que ele vai se recuperar.[BR]\n[Wait][End]",
+            "text": "[Style Right]\n[Voice Star][DitherFade 217]Oh, que bom![BR]\n[Pause 10] Ele foi ferido gravemente.[BR]\nMas acho que ele vai se recuperar.[Wait][End]",
             "original_text": "[Style Right]\n[Voice Star][DitherFade 217]Oh, thank heavens![BR]\n[Pause 10]He's been gravely injured, but I[BR]\nthink he'll recover.[Wait][End]"
         },
         {
@@ -14426,7 +14426,7 @@
             "index": 3,
             "source": "translate/src/0B Chapter 0.str",
             "resource": "MSG_CH0_0003",
-            "text": "Ufa...[Style Right]\nÉ[Voice Star]tudo[DitherFade 217]o que podemos fazer agora.[BR]\nMario... Por favor,[BR]\nlevante-se...[Wait]Por[Next]favor...[BR]\n[Pause 10][Wait][End]",
+            "text": "[Style Right]\n[Voice Star][DitherFade 217]Ufa, é tudo que podemos[BR]\nfazer agora.[BR]\n[Wait][Next]\nMario...[BR]\n[Pause 10]Por favor, levante-se...[Wait][End]",
             "original_text": "[Style Right]\n[Voice Star][DitherFade 217]Phew...that's it. That's all we[BR]\ncan do right now.[BR]\n[Wait][Next]\nMario...[BR]\n[Pause 10]Please get up... Please...[Wait][End]"
         },
         {
@@ -14435,7 +14435,7 @@
             "index": 4,
             "source": "translate/src/0B Chapter 0.str",
             "resource": "MSG_CH0_0004",
-            "text": "Parecia[Style Right]\nrealmente que algo havia caído por[BR]\naqui... Ah... . . . Quem poderia[BR]\nser[Wait]esse[Next]alguém?[Pause 3][Pause 3][Pause 3][BR]\n[Pause 10][Wait][End]",
+            "text": "[Style Right]\nParecia realmente que algo havia[BR]\ncaído por aqui...[BR]\n[Wait][Next]\nAh[Pause 3].[Pause 3].[Pause 3].[BR]\n[Pause 10]Quem poderia ser?[Wait][End]",
             "original_text": "[Style Right]\nIt really sounded like something[BR]\nfell somewhere around here...[BR]\n[Wait][Next]\nOh[Pause 3].[Pause 3].[Pause 3].[BR]\n[Pause 10]Who could that be?[Wait][End]"
         },
         {
@@ -14444,7 +14444,7 @@
             "index": 5,
             "source": "translate/src/0B Chapter 0.str",
             "resource": "MSG_CH0_0005",
-            "text": "Essa[Style Right]\ncamisa vermelha...[Pause 5]Essa[Pause 5]chapéu...[BR]\nE aquela barba...[BR]\nSabe...[Pause 10]isso parece ser o[BR]\nverdadeiro Mario! Não[BR]\npoderia[Wait]ser...[Next]certo? O verdadeiro Mario?[BR]\n[Pause 10][Wait][End]",
+            "text": "[Style Right]\nEssa camisa vermelha, [Pause 5]Esse boné, [Pause 5]e[BR]\nE o bigode...[BR]\n[Pause 10]Sabe, isso parece ser o[BR]\nverdadeiro Mario![BR]\n[Wait][Next]\nSerá q é...não é?[BR]\n[Pause 10]O verdadeiro Mario?[Wait][End]",
             "original_text": "[Style Right]\nThis red shirt, [Pause 5]this hat, [Pause 5]and[BR]\nthis mustache...[BR]\n[Pause 10]You know, this really looks like[BR]\nthe one and only Mario![BR]\n[Wait][Next]\nIt couldn't be...could it?[BR]\n[Pause 10]The real Mario?[Wait][End]"
         },
         {
